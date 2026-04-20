@@ -6,7 +6,3 @@ layout: home
 ---
 
 Coming sooooooooon.
-
-Angelie has infiltrated the network.
-
-Ameenah has also infiltrated the network mwahahahhahaah.
